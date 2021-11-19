@@ -1,7 +1,7 @@
 # Kamil Andziak
  
- ###hello I'm interested in programing, technologies and MMA
+ ### hello I'm interested in programing, technologies, AI and MMA --- focused on frontend
  
  ## Skils
  
- ### Javasript html css react webpack github :)
+ ### Javasript Html Css React Webpack github :)
